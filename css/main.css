@@ -1,0 +1,12 @@
+ul{list-style: none}
+.hide{display: none}
+.c1_location_list{
+    list-style-type: none;
+    border: 1px solid red;
+    max-height: 120px;
+    overflow-y: scroll
+}
+.c1_location_list li{
+    height: 30px;
+    line-height: 30px;    
+}
